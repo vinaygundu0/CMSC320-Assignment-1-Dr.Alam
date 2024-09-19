@@ -1,3 +1,6 @@
+Q3: What is the difference between merging and rebasing?
+
+Answer: IDK
 
 Q2: What field could data science be applied to? Give and Example and how 
 it might help
